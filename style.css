@@ -7,3 +7,13 @@
     background-size: cover;
     padding-top: 20px;
 }
+#container2{
+    background-image: url(assets/s_image.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;    
+    height: 450px;
+    align-items: center;
+    text-align: center;
+    color: white;
+  }
