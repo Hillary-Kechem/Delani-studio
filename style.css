@@ -24,12 +24,27 @@
     font-size: 12px;
   }
 
-  #inputMessage{
-      height: 200px;
-  }
+  #inputMessage,#inputEmail,#inputName{
+    background: transparent;
+    border: 1px solid white;
+    color: white;
+    width: 75%;
+    color:white;
+    align-items: center;
+}
+  
   #contact{
     text-align: center;
      background-image: url(assets/c_image.jpg);
-     ;
+     
   }
-  
+.textarea{
+    background: transparent;
+    border: 1px solid white;
+    color: white;
+    width: 75%;
+}
+#inputMessage{
+    height: 250px;
+}
+
