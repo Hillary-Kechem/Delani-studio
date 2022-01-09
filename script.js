@@ -1,8 +1,16 @@
 $(document).ready(function () {
-    $("#development").click(function () {
-    $("#development2").toggle();
+    $("#infor").click(function () {
+    $("#hidden").toggle();
     
     });
+    $("#development").click(function () {
+        $("#development2").toggle();
+        
+        });
+        $("#product1").click(function () {
+            $("#hidden2").toggle();
+            
+            });
 })
 
 $("#blackimg").hover(
