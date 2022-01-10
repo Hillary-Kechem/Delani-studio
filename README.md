@@ -4,7 +4,7 @@
 Requirements Either a computer,phone,tablet or an Ipad
 Must have either Visual studio or atom
 An access to the Internet
-Click on the link provided bellow to view the site.
+Click on the link provided bellow to clone the site. https://github.com/Hillary-Kechem/Delani-studio.git
 
 # Technology Used 
 HTML
